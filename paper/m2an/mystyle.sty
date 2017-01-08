@@ -1,0 +1,141 @@
+\def\com#1{{\bf[#1]}}
+
+% general defs
+\providecommand\mathbb{\bf}
+\newcommand\R{{\mathbb R}}
+\newcommand\N{{\mathbb N}}
+\newcommand\Z{{\mathbb Z}}
+\newcommand\Q{{\mathbb Q}}
+\newcommand\abs[1]{\left\vert#1\right\vert}
+\newcommand\norm[1]{\left\Vert#1\right\Vert}
+\newcommand\NLfty[2]{\left\|#1\right\|_{L^\infty{#2}}}
+\newcommand\NLtwo[2]{\left\|#1\right\|_{L^2{#2}}}
+\newcommand\Hz{H^1_0}
+\newcommand\pd[2]{\frac{\partial{#1}}{\partial{#2}}}
+\newcommand\pref[1]{(\ref{#1})}
+\newcommand\loc{{\mathrm{loc}}}
+\newcommand\vol{{\mathrm{vol}}}
+
+\newcommand\qtext[1]{\quad\text{#1}\quad}
+\newcommand\qqtext[1]{\qquad\text{#1}\qquad}
+\let \longto\longrightarrow
+\let \wto\rightharpoonup
+\let \eps\varepsilon
+%
+\newtheorem{thm}{Theorem}
+\newtheorem{coro}{Corollary}
+\newtheorem{prop}{Proposition}
+\newtheorem{lem}{Lemma}
+\newtheorem{theo}{Theorem}
+\newtheorem{defi}{Definition}
+\newtheorem{conj}{Conjecture}
+\newenvironment{remark}
+      {\par\medbreak\noindent\textbf{Remark.~}}
+      {\hbox{ }\medbreak}
+\newcounter{Remark}
+\newenvironment{Remark}
+      {\par\medbreak \refstepcounter{Remark}
+       \noindent\textbf{Remark~\arabic{Remark}.}}
+      {\hbox{ }\hrulefill\medbreak}
+\newenvironment{proof}[1][]
+      {\par\medbreak{\noindent\bfseries Proof#1.\quad}}
+      {\hbox{}\hfill\fbox{\ }\bigbreak}
+\newcounter{steps}
+\newcommand\step{\par\smallbreak
+        \refstepcounter{steps}
+        \noindent{\bf Step \arabic{steps}.\unskip\quad}}
+
+% particular defs
+\newcommand\CC{{\cal C}}
+\newcommand\Sn{S^{n-1}}
+\newcommand\A{{\cal A}}
+\newcommand\M{{\cal M}}
+\newcommand\HH{{\cal H}}
+\newcommand\HHz{{\HH_0}}
+\newcommand\clos{\overline}
+\newcommand\conv{\mathop{\mathrm{co}}\nolimits}
+\newcommand\dist{\mathop{\mathrm{dist}}\nolimits}
+\newcommand\ri{\mathop{\mathrm{ri}}\nolimits}
+\newcommand\Span{\mathop{\mathrm{Span}}\nolimits}
+\newcommand\Vect{\mathop{\mathrm{Span}}\nolimits}
+%\newcommand\inter{\mathaccent"7017}
+\newcommand\SSS{{\cal S}}
+\newcommand\fii{{\varphi}}
+\newcommand\Af{A(\fii)}
+\newcommand\Omb{{\overline{\Omega}}}
+\newcommand\ovu{{\overline{u}}}
+\newcommand\dHn{\,d{\cal H}^{n-1}}
+\newcommand\dHnA{\,d{\cal H}^{n_A-1}}
+\newcommand\Hn{{\cal H}^{n-1}}
+\newcommand\HnA{{\cal H}^{n_A-1}}
+\newcommand\raceps{\eps^{\frac12}}
+\def\<#1,#2>{\left<#1,#2\right>}
+\let\bar\overline
+
+
+
+
+
+
+
+\providecommand\mathbb{\bf}
+\newcommand\orthonab[1]{{\nabla^\bot #1}}
+\newcommand\essinf{\mathop{\rm ess inf}}
+\newcommand\asinh{\mathop{\rm asinh}}
+\newcommand\NLone[2]{\left\|#1\right\|_{L^1(#2)}}
+%\newcommand\half{{\frac12}}
+\renewcommand\div{\mathop{\hbox{div}}}
+\newcommand\supp{\mathop{\mathrm{supp}}}
+\renewcommand\d{\mathbin{\rm d\!}}
+\let \longto\longrightarrow
+\let \wto\rightharpoonup
+\let \eps=\varepsilon 
+
+
+\def\D{{\bf D}}
+\newcommand\ghom{{g^*_{\rm hom}}}
+\newcommand{\bs}{{\boldsymbol \sigma}}
+\newcommand{\bt}{{\boldsymbol \tau}}
+\newcommand{\nnabla}{{\boldsymbol \nabla}}
+\newcommand{{\bu}}{{\boldsymbol u}}
+\newcommand{\bv}{{\boldsymbol v}}
+\newcommand{\bq}{{\boldsymbol q}}
+\newcommand{\br}{{\boldsymbol r}}
+\newcommand{\bb}{{\boldsymbol b}}
+\newcommand{\bw}{{\boldsymbol w}}
+\newcommand{\bn}{{\boldsymbol n}}
+\newcommand{\ff}{{\boldsymbol f}}
+\newcommand\bfdiv{\mathop{\bf div}\nolimits}
+\newcommand\trace{\mathop{\rm trace}\nolimits}
+\newcommand\sign{\mathop{\rm sign}\nolimits}
+\newcommand\car[1]{{{\bf 1}_{#1}}}
+\newcommand\normLone[1]{\norm{#1}_{L^1(\Omega)}}
+\newcommand\Rayl[1]{{\bf R}_{#1}}
+\newcommand\absnab[1]{\abs{\nabla #1}}
+\newcommand\Hauss[1]{{\bf H}^1(#1)}
+\newcommand\intO{\int_\Omega}
+\newcommand\into{\int_\omega}
+\newcommand\intdO{\int_{\partial\Omega}}
+\newcommand\intdo{\int_{\partial\omega}}
+\newcommand\W[1]{W^{1,#1}}
+\newcommand\Wp{{\W{p}}}
+\newcommand\xW[1]{\widetilde W^{1,#1}}
+\newcommand\loga[1]{{\log\abs{#1}}}
+\newcommand\G[1]{{\mathcal G}_{#1}}
+\let\eps=\varepsilon
+\let\clos=\overline
+
+
+%% pour faire une figure
+\newcommand{\myfigure}[3]{
+    \begin{figure}[ht]
+    \begin{center}
+        #1                          % usual include graphics
+    \end{center}
+    \vspace{-4mm}
+        \caption{\textit{#2}}       % caption
+    \label{#3}          % label
+    \end{figure}
+}
+\newcommand{\dotp}[2]{\langle #1,\,#2\rangle}
+\newcommand{\enscond}[2]{ \left\{ #1 \;:\; #2 \right\} }

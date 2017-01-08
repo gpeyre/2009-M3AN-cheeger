@@ -1,0 +1,254 @@
+\begin{thebibliography}{10}
+
+\bibitem{ac}
+F.~Alter and V.~Caselles.
+\newblock Uniqueness of the cheeger set of a convex body.
+\newblock {\em Nonlinear Anal.}, 70(1):32--44, 2009.
+
+\bibitem{acc}
+F.~Alter, V.~Caselles, and A.~Chambolle.
+\newblock A characterization of convex calibrable sets in $\mathbb{R}^n$.
+\newblock {\em Math. Ann.}, 332(2):329--366, 2005.
+
+\bibitem{acc2}
+F.~Alter, V.~Caselles, and A.~Chambolle.
+\newblock Evolution of characteristic functions of convex sets in the plane by
+  the minimizing total variation flow.
+\newblock {\em Interfaces Free Bound}, 7(1):29--53, 2005.
+
+\bibitem{ACO}
+K.D. Andersen, E.~Christiansen, and M.L. Overton.
+\newblock Computing limit loads by minimizing a sum of norms.
+\newblock {\em SIAM J. of Sci. Comp.}, 19(3):1046--1062, 1998.
+
+\bibitem{A}
+J.H. Argyris.
+\newblock Continua and discontinua.
+\newblock In {\em Proceedings Conference on matrix methods in structural
+  mechanics}. Wright-Paterson AFB, 1967.
+
+\bibitem{beck-fista}
+Amir Beck and Marc Teboulle.
+\newblock A fast iterative shrinkage-thresholding algorithm for linear inverse
+  problems.
+\newblock {\em SIAM Journal on Imaging Sciences}, 2(1):183--202, 2009.
+
+\bibitem{Bal}
+N.~Bilger, F.~Auslender, M.~Bornert, H.~Moulinec, and A.~Zaoui.
+\newblock Bounds and estimates for the effective yield surface of porous media
+  with a uniform or a nonuniform distribution of voids.
+\newblock {\em European Journal of Mechanics A/Solids}, 26(5):810--836, 2007.
+
+\bibitem{buttazzo-cheeger}
+G.~Buttazzo, G.~Carlier, and M.~Comte.
+\newblock On the selection of maximal cheeger sets.
+\newblock {\em Differential and Integral Equations}, 20(9):991--1004, 2007.
+
+\bibitem{cc}
+G.~Carlier and M.~Comte.
+\newblock On a weighted total variation minimization problem.
+\newblock {\em J. Funct. Anal.}, 250(1):214--226, 2007.
+
+\bibitem{carlier-cheeger-numeric}
+G.~Carlier, M.~Comte, and G.~Peyr\'e.
+\newblock Approximation of maximal cheeger sets by projection.
+\newblock {\em ESAIM: Mathematical Modelling and Numerical Analysis},
+  43(1):131--150, 2009.
+
+\bibitem{ccn}
+V.~Caselles, A.~Chambolle, and M.~Novaga.
+\newblock Uniqueness of the cheeger set of a convex body.
+\newblock {\em Pacific J. Math.}, 232(1):77--90, 2007.
+
+\bibitem{chambolle-wavelets}
+A.~Chambolle, R.A.~De Vore, N.~Lee, and B.J. Lucier.
+\newblock Nonlinear wavelet image processing: Variational problems,
+  compression, and noise removal through wavelet shrinkage.
+\newblock {\em IEEE Trans. Image Proc.}, 7(3):319--335, March 1998.
+
+\bibitem{cheeg}
+J.~Cheeger.
+\newblock A lower bound for the smallest eigenvalue of the laplacian.
+\newblock In {\em Problems in Analysis, A Symposium in Honor of Salomon
+  Bochner}, pages 195--199, Princeton, 1970. Princeton Univ. Press.
+
+\bibitem{Ch}
+E.~Christiansen.
+\newblock Limit analyis of collapse states.
+\newblock In P.G. Ciarlet and J.L. Lions, editors, {\em Handbook of Numerical
+  Analysis}, volume~4, pages 193--312. Noth Holland, Amsterdam, 1996.
+
+\bibitem{CA}
+E.~Christiansen and K.D. Andersen.
+\newblock Computation of collapse states with von mises yield condition.
+\newblock {\em International Journal for Numerical Methods in Engineering},
+  46(8):1185--1202, 1999.
+
+\bibitem{combettes-pesquet-tv}
+P.-L. Combettes and J.-C. Pesquet.
+\newblock Image restoration subject to a total variation constraint.
+\newblock {\em IEEE Transactions on Image Processing}, 13(9):1213--1222, 2004.
+
+\bibitem{combettes-proximal}
+P.~L. Combettes and V.~R. Wajs.
+\newblock Signal recovery by proximal forward-backward splitting.
+\newblock {\em SIAM Journal on Multiscale Modeling and Simulation}, 4(4), 2005.
+
+\bibitem{demg}
+F.~Demengel.
+\newblock On some nonlinear equation involving the 1-laplacian and trace map
+  inequalities.
+\newblock {\em Nonlinear Anal., Theory Methods Appl.}, 8(48):1151--1163, 2002.
+
+\bibitem{DPG}
+D.~C. Drucker, W.~Prager, and H.J. Greenberg.
+\newblock Extended limit design theorems for continuous media.
+\newblock {\em Quarterly of Applied Mathematics}, 9(4):381--389, 1952.
+
+\bibitem{eckstein-dr}
+J.~Eckstein and D.~P. Bertsekas.
+\newblock On the douglas-rachford splitting method and the proximal point
+  algorithm for maximal monotone operators.
+\newblock {\em Math. Program.}, 55:293--318, 1992.
+
+\bibitem{FadiliTV}
+J.~Fadili and G.~Peyr\'e.
+\newblock Total variation projection with first order schemes.
+\newblock {\em Preprint Hal-00380491}, 2009.
+
+\bibitem{Fal}
+P.~Francescato, J.~Pastor, and B.~Riveill-Reydet.
+\newblock Ductile failure of cylindrically porous materials. part 1: Plane
+  stress problem and experimental results.
+\newblock {\em Eur. J. Mech. A/Solids}, 23(2):181--190, 2004.
+
+\bibitem{G77}
+A.L. Gurson.
+\newblock Continuum theory of ductile rupture by void nucleation and growth
+  (part i - yield criteria and flow rules for porous ductile media).
+\newblock {\em J. Eng. Mat. Tech.}, 99(1):2--15, 1977.
+
+\bibitem{hilr}
+R.~Hassani, I.R. Ionescu, and T.~Lachand-Robert.
+\newblock Shape optimization and supremal minimization approaches in landslides
+  modeling.
+\newblock {\em Applied Mathematics and Optimization}, 52(3):349--364, 2005.
+
+\bibitem{HM}
+D.G. Hayes and P.V. Marcal.
+\newblock Determination of upper bounds for problems in plane stress using
+  finite element techniques.
+\newblock {\em Internat. J. Mech. Scie.}, 9:245--251, 1964.
+
+\bibitem{HB}
+P.G. Hodge and T.~Belytschko.
+\newblock Numerical methods for the limit analysis of plates.
+\newblock {\em J. Appl. Mech.}, 35:796--802, 1968.
+
+\bibitem{lri}
+I.~R. Ionescu and T.~Lachand-Robert.
+\newblock Generalized cheeger sets related to landslides.
+\newblock {\em Calc. Var. and PDE's}, 23(2):227--249, 2005.
+
+\bibitem{IO}
+I.R. Ionescu and E.~Oudet.
+\newblock Discontinuous velocity domain splitting in limit analysis.
+\newblock {\em International Journal of Solids and Structures},
+  47(10):1459--1468, 2010.
+
+\bibitem{K}
+L.~Katchanov.
+\newblock {\em El\'ements de la th\'eorie de la Plasticit\'e}.
+\newblock Edition Mir, 1973.
+
+\bibitem{kf}
+B.~Kawohl and V.~Fridman.
+\newblock Isoperimetric estimates for the first eigenvalue of the $p$-laplace
+  operator and the cheeger constant.
+\newblock {\em Comm. Mat. Univ. Carol.}, 44(4):659--667, 2003.
+
+\bibitem{klr}
+B.~Kawohl and T.~Lachand-Robert.
+\newblock Characterization of cheeger sets for convex subsets of the plane.
+\newblock {\em Pacific J. Math.}, 225(1):103--118, 2006.
+
+\bibitem{LS02}
+K.~Krabbenhoft, A.~V. Lyamin, M.~Hjiaj, and S.~W. Sloan.
+\newblock A new discontinuous upper bound limit analysis formulation.
+\newblock {\em International Journal for Numerical Methods in Engineering},
+  63(7):1069--1088, 2005.
+
+\bibitem{TP}
+M.Trillat and J.~Pastor.
+\newblock Limit analysis and gurson's model.
+\newblock {\em European Journal of Mechanics A/Solids}, 24(5):800--819, 2005.
+
+\bibitem{NPR}
+J.C. Nagtegaal, D.M. Parks, and J.R. Rice.
+\newblock On numerically accurate finite element solutions in the fully plastic
+  range.
+\newblock {\em Computer Methods in Applied Mechanics and Engineering},
+  4:153--177, 1974.
+
+\bibitem{nesterov-smooth}
+Y.~Nesterov.
+\newblock Smooth minimization of non-smooth functions.
+\newblock {\em Math. Program.}, 103(1, Ser. A):127--152, 2005.
+
+\bibitem{nesterov-gradient}
+Y.~Nesterov.
+\newblock Gradient methods for minimizing composite objective function.
+\newblock CORE Discussion Papers 2007076, Université catholique de Louvain,
+  Center for Operations Research and Econometrics (CORE), September 2007.
+
+\bibitem{rof}
+L.I. Rudin, S.~Osher, and E.~Fatemi.
+\newblock Nonlinear total variation based noise removal algorithms.
+\newblock {\em Physica D}, 60(1--4):259--268, 1992.
+
+\bibitem{strang1}
+G.~Strang.
+\newblock Maximal flow through a domain.
+\newblock {\em Math. Programming}, 26(2):123--143, 1983.
+
+\bibitem{strang2}
+G.~Strang.
+\newblock Maximum flows and minimum cuts in the plane.
+\newblock {\em Advances in applied mathematics and global optimization, Adv.
+  Mech. Math.}, 17:1--11, 2009.
+
+\bibitem{S}
+P.~Suquet.
+\newblock Un espace fonctionnel pour les \'equations de la plasticit\'e.
+\newblock {\em Ann. Fac. Sci. Toulouse, V. S\'er., Math.}, S\'er. 5,
+  1(1):77--87, 1979.
+
+\bibitem{T}
+R.~Temam.
+\newblock {\em Probl\`emes math\'ematiques en plasticit\'e}.
+\newblock Gauthiers-Villars, Paris, 1983.
+
+\bibitem{ts2}
+R.~Temam and G.~Strang.
+\newblock Duality and relaxation in the variational problems of plasticity.
+\newblock {\em J. de M\'ecanique}, 19:493--527, 1980.
+
+\bibitem{ts}
+R.~Temam and G.~Strang.
+\newblock Functions of bounded deformation.
+\newblock {\em Arch. Ration. Mech. Anal.}, 75(1):7--21, 1980.
+
+\bibitem{TN}
+F.~Tin-Loi and N.S. Ngo.
+\newblock Performance of the p-version finite element method for limit
+  analysis.
+\newblock {\em International Journal of Mechanical Sciences},
+  45(6--7):1149--1166, 2003.
+
+\bibitem{weiss-tv-nesterov}
+P.~Weiss, L.~Blanc-F{\'e}raud, and G.~Aubert.
+\newblock Efficient schemes for total variation minimization under constraints
+  in image processing.
+\newblock {\em SIAM Journal on Scientific Computing}, 31(3):2047--2080, 2009.
+
+\end{thebibliography}

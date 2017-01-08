@@ -1,0 +1,504 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.9.19)  8 JAN 2017 11:13
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**LimitAnalysisM3AS-2010-26-06.tex
+(./LimitAnalysisM3AS-2010-26-06.tex
+LaTeX2e <2016/03/31>
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/latin1.def
+File: latin1.def 2015/03/17 v1.2c Input encoding file
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/10 v2.15b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen103
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks17
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks18
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks19
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip46
+\thm@postskip=\skip47
+\thm@headsep=\skip48
+\dth@everypar=\toks26
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks27
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 96.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(./pdfsync.sty
+Package: pdfsync 2008/01/26 v1.1
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen114
+\epsfysize=\dimen115
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(./mystyle.sty (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen116
+\extrarowheight=\dimen117
+\NC@list=\toks28
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen118
+\TX@old@table=\dimen119
+\TX@old@col=\dimen120
+\TX@target=\dimen121
+\TX@delta=\dimen122
+\TX@cols=\count100
+\TX@ftn=\toks29
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+\c@thm=\count101
+\c@defn=\count102
+\c@cor=\count103
+\c@lem=\count104
+\c@prop=\count105
+\c@rem=\count106
+\c@exmp=\count107
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count108
+\float@exts=\toks30
+\float@box=\box28
+\@float@everytoks=\toks31
+\@floatcapt=\box29
+)
+\@float@every@listing=\toks32
+\c@listing=\count109
+\restsubwidth=\skip51
+\restsubheight=\skip52
+\restsubmoreheight=\skip53
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/vmargin/vmargin.sty
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+
+Package: vmargin 2004/07/15 V2.5 set document margins (VK)
+\PaperWidth=\dimen123
+\PaperHeight=\dimen124
+) (./algorithm2e.sty
+Package: algorithm2e 2005/10/04 v3.9 algorithms environments
+\c@AlgoLine=\count110
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+********************************************************
+Package `algorithm2e' Release 3.9 -- october 04 2005 --
+- algorithm2e-announce@lirmm.fr mailing list for announcement about releases
+- algorithm2e-discussion@lirmm.fr mailing list for discussion about package
+subscribe by emailing sympa@lirmm.fr with 'subscribe <list> <firstname name>'
+- Author: Christophe Fiorio (fiorio@lirmm.fr)
+********************************************************
+\skiptotal=\skip54
+\skiprule=\skip55
+\skiphlne=\skip56
+\skiptext=\skip57
+\skiplength=\skip58
+\algomargin=\skip59
+\skipalgocfslide=\skip60
+\algowidth=\dimen125
+\inoutsize=\dimen126
+\inoutline=\dimen127
+\algocf@inoutbox=\box30
+\algocf@inputbox=\box31
+\AlCapSkip=\skip61
+\AlCapHSkip=\skip62
+\algocf@capbox=\box32
+\c@algocfline=\count111
+\c@algocf=\count112
+\algocf@algoframe=\box33
+\algocf@algobox=\box34
+) (./LimitAnalysisM3AS-2010-26-06.aux)
+\openout1 = `LimitAnalysisM3AS-2010-26-06.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+
+(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen128
+\scratchbox=\box35
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen129
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks34
+)
+Configuring pdfsync
+\PDFSYNC@ut=\write3
+\openout3 = `LimitAnalysisM3AS-2010-26-06.pdfsync'.
+
+\PDFSYNCf@li@=\count119
+\PDFSYNC@rder=\count120
+**** pdfsync.sty: Synchronizing at \everypar
+\PDFSYNCeveryp@r=\toks35
+**** pdfsync.sty: Synchronizing at \everymath
+\PDFSYNCeverym@th=\toks36
+**** pdfsync.sty: Synchronizing at \everyhbox
+\PDFSYNCeveryhb@x=\toks37
+**** pdfsync.sty: Synchronizing at \everyvbox
+\PDFSYNCeveryvb@x=\toks38
+**** pdfsync.sty: started
+LaTeX Font Info:    Try loading font information for U+msa on input line 50.
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 50.
+
+(/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Overfull \hbox (1.17024pt too wide) in paragraph at lines 155--157
+\OT1/cmr/m/n/10.95 Note that, in the von-Mises model, the plas-tic dis-si-pa-ti
+on power is fi-nite only for divergence-
+ []
+
+[3] [4]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 229.
+
+ (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 229.
+ [5]
+[6] [7] [8]
+<./images/cheeger-2d/camel-original.png, id=49, 200.75pt x 200.75pt>
+File: ./images/cheeger-2d/camel-original.png Graphic file (type png)
+
+<use ./images/cheeger-2d/camel-original.png>
+Package pdftex.def Info: ./images/cheeger-2d/camel-original.png used on input l
+ine 366.
+(pdftex.def)             Requested size: 106.85788pt x 106.85953pt.
+
+<./images/cheeger-2d/camel-l2-cheeger-curve.png, id=50, 346.4142pt x 346.4142pt
+>
+File: ./images/cheeger-2d/camel-l2-cheeger-curve.png Graphic file (type png)
+ <use ./images/cheeger-2d/camel-l2-cheeger-curve.png>
+Package pdftex.def Info: ./images/cheeger-2d/camel-l2-cheeger-curve.png used on
+ input line 366.
+(pdftex.def)             Requested size: 106.85788pt x 106.8587pt.
+
+<./images/cheeger-2d/sapin-original.png, id=51, 401.5pt x 401.5pt>
+File: ./images/cheeger-2d/sapin-original.png Graphic file (type png)
+
+<use ./images/cheeger-2d/sapin-original.png>
+Package pdftex.def Info: ./images/cheeger-2d/sapin-original.png used on input l
+ine 366.
+(pdftex.def)             Requested size: 106.85788pt x 106.85646pt.
+
+<./images/cheeger-2d/sapin-l2-cheeger-curve.png, id=52, 346.4142pt x 346.4142pt
+>
+File: ./images/cheeger-2d/sapin-l2-cheeger-curve.png Graphic file (type png)
+ <use ./images/cheeger-2d/sapin-l2-cheeger-curve.png>
+Package pdftex.def Info: ./images/cheeger-2d/sapin-l2-cheeger-curve.png used on
+ input line 366.
+(pdftex.def)             Requested size: 106.85788pt x 106.8587pt.
+ [9 <./images/cheeger-2d/camel-original.png (PNG copy)> <./images/cheeger-2d/ca
+mel-l2-cheeger-curve.png (PNG copy)> <./images/cheeger-2d/sapin-original.png (P
+NG copy)> <./images/cheeger-2d/sapin-l2-cheeger-curve.png (PNG copy)>] [10] [11
+] [12] [13] [14] [15]
+Overfull \hbox (33.82503pt too wide) detected at line 779
+[][][][]
+ []
+
+[16] [17] <./images/notched/notched-pbm.pdf, id=81, 831.36746pt x 399.4925pt>
+File: ./images/notched/notched-pbm.pdf Graphic file (type pdf)
+
+<use ./images/notched/notched-pbm.pdf>
+Package pdftex.def Info: ./images/notched/notched-pbm.pdf used on input line 81
+4.
+(pdftex.def)             Requested size: 406.05864pt x 195.12517pt.
+ [18]
+<./images/notched/notched-numerics-rotated.pdf, id=85, 260.975pt x 248.93pt>
+File: ./images/notched/notched-numerics-rotated.pdf Graphic file (type pdf)
+
+<use ./images/notched/notched-numerics-rotated.pdf>
+Package pdftex.def Info: ./images/notched/notched-numerics-rotated.pdf used on 
+input line 840.
+(pdftex.def)             Requested size: 256.46152pt x 244.62962pt.
+
+<./images/indentation/indentation-pbm.pdf, id=86, 858.20625pt x 218.8175pt>
+File: ./images/indentation/indentation-pbm.pdf Graphic file (type pdf)
+
+<use ./images/indentation/indentation-pbm.pdf>
+Package pdftex.def Info: ./images/indentation/indentation-pbm.pdf used on input
+ line 862.
+(pdftex.def)             Requested size: 406.05864pt x 103.53204pt.
+ [19 <./images/notched/notched-pbm.pdf>]
+<./images/indentation/indentation-numerics-new.pdf, id=154, 354.32375pt x 182.6
+825pt>
+File: ./images/indentation/indentation-numerics-new.pdf Graphic file (type pdf)
+
+ <use ./images/indentation/indentation-numerics-new.pdf>
+Package pdftex.def Info: ./images/indentation/indentation-numerics-new.pdf used
+ on input line 876.
+(pdftex.def)             Requested size: 299.20076pt x 154.26619pt.
+ [20 <./images/notched/notched-numerics-rotated.pdf> <./images/indentation/inde
+ntation-pbm.pdf>] <./images/gurson/gurson-pbm.pdf, id=251, 300.12125pt x 300.12
+125pt>
+File: ./images/gurson/gurson-pbm.pdf Graphic file (type pdf)
+
+<use ./images/gurson/gurson-pbm.pdf>
+Package pdftex.def Info: ./images/gurson/gurson-pbm.pdf used on input line 905.
+
+(pdftex.def)             Requested size: 170.97pt x 170.97472pt.
+Package epstopdf Info: Source file: <./images/gurson/gurson-numerics.eps>
+(epstopdf)                    date: 2010-01-05 23:04:55
+(epstopdf)                    size: 60689 bytes
+(epstopdf)             Output file: <./images/gurson/gurson-numerics-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2017-01-08 11:13:10
+(epstopdf)                    size: 15489 bytes
+(epstopdf)             Command: <repstopdf --outfile=./images/gurson/gurson-num
+erics-eps-converted-to.pdf ./images/gurson/gurson-numerics.eps>
+(epstopdf)             \includegraphics on input line 905.
+Package epstopdf Info: Output file is already uptodate.
+
+<./images/gurson/gurson-numerics-eps-converted-to.pdf, id=252, 259.97125pt x 24
+8.93pt>
+File: ./images/gurson/gurson-numerics-eps-converted-to.pdf Graphic file (type p
+df)
+ <use ./images/gurson/gurson-numerics-eps-converted-to.pdf>
+Package pdftex.def Info: ./images/gurson/gurson-numerics-eps-converted-to.pdf u
+sed on input line 905.
+(pdftex.def)             Requested size: 188.0709pt x 180.08408pt.
+
+(./LimitAnalysisM3AS-2010-26-06.bbl [21 <./images/indentation/indentation-numer
+ics-new.pdf> <./images/gurson/gurson-pbm.pdf> <./images/gurson/gurson-numerics-
+eps-converted-to.pdf>] [22] [23]) [24] (./LimitAnalysisM3AS-2010-26-06.aux) ) 
+Here is how much of TeX's memory you used:
+ 4370 strings out of 493014
+ 56082 string characters out of 6133351
+ 152741 words of memory out of 5000000
+ 7804 multiletter control sequences out of 15000+600000
+ 14636 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,50n,26p,1183b,743s stack positions out of 5000i,500n,10000p,200000b,80000s
+</
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></u
+sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr
+/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loca
+l/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/
+texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/
+2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2016
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2016/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2016/texmf
+-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2016/t
+exmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on LimitAnalysisM3AS-2010-26-06.pdf (24 pages, 559036 bytes).
+PDF statistics:
+ 364 PDF objects out of 1000 (max. 8388607)
+ 269 compressed objects within 3 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
